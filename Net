@@ -1,0 +1,7 @@
+public class NetworkInformationObject {
+    public NetworkInformationObject(ApexPages.Network_Information acon) {
+}
+    public String getFoo() {
+        return ‘foo-One’;
+    }
+}
